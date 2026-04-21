@@ -102,7 +102,7 @@ Hasil preprocessing: **5.088 responden · 78 variabel** tersimpan di `Final_Data
 
 ---
 
-## 📊 Dashboard - MindScope
+## 📊 Dashboard - DepreScan
 
 Dashboard interaktif berbasis Streamlit untuk mengeksplorasi pola kesehatan mental dari dataset NHANES. Terdiri dari 5 halaman:
 
