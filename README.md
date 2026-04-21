@@ -53,7 +53,7 @@
 │       ├── io.py                        # Helper baca/tulis file CSV & XPT
 │       └── sentinel.py                  # Penanganan nilai sentinel khas NHANES
 │
-├── dashboard_nhanes_Final.py            # Dashboard Streamlit (MindScope)
+├── dashboard_nhanes_Final.py            # Dashboard Streamlit (DepreScan)
 ├── Final_Data.csv                       # Output pipeline: 5.088 baris, 78 kolom
 └── README.md
 ```
